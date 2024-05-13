@@ -1,4 +1,4 @@
 # Deep-Audio-Classifier
-An attempt at https://www.kaggle.com/datasets/kenjee/z-by-hp-unlocked-challenge-3-signal-processing/data and learning TensorFlow
+Classifying bird calls using signal porcessing and deep learning and counting the number of calls in forest sounds.
 
-I have not uploaded the code yet, you can email me to request to see the code, I will upload the code soon as a python notebook
+Code is older version, I will upload latest code soon
